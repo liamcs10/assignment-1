@@ -1,0 +1,7 @@
+1. mkdir answers
+2. cd answers/
+   touch answers.txt
+4. /Users/liamzeeum/Github/assignment-1/answers/answers.txt
+5. ls -a
+6. You can do ls .. to show files in the previous directory
+
