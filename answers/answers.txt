@@ -4,4 +4,14 @@
 4. /Users/liamzeeum/Github/assignment-1/answers/answers.txt
 5. ls -a
 6. You can do ls .. to show files in the previous directory
-
+7. rm is a dangerous command because it will delete files and directories forever and there is no undelete. If a sloppy rm command deletes important files within a directory then they will be gone forever.
+8. mkdir results
+9. touch my_script.sh
+10. Chmod 775 my_script.sh
+11. cd ~/Github/assignment-1/data
+12. wc -w annual_aqi*.csv | sort -nr | head -n 3, before I ran this I converted all the .zips to .csvs
+13. for filename in *.csv; do ~/Github/assignment-1/answers/my_script_.sh $filename; done
+14. unzip 'annual_aqi_by_county*'
+	mkdir unzipped-files
+15. rm *.zip
+16. cp annual* ~/Github/assignment-1/answers/results
